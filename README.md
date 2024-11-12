@@ -16,11 +16,9 @@ pkg install nodejs git
 
 3. Clone the Repository
 
-Clone the FLASH-USDT repository from GitHub:
+Clone the FLASH-USDT repository :
 
-git clone https://github.com/YourUsername/FLASH-USDT-.git
-
-Replace YourUsername with your actual GitHub username.
+git clone https://github.com/Hackkmann/FLASH-USDT-.git
 
 4. Navigate to the Project Directory
 
@@ -44,10 +42,8 @@ node flashusdt.mjs
 
 Final Result
 
-The tool will start, and you'll see colorful output in the terminal with the simulation process.
-
+The tool will start, and you'll pay 700usdt and start using the tool
 
 ---
 
-These are the exact commands you need to install and run the FLASH-USDT project on Termux. Let me know if you need further help!
-
+These are the exact commands you need to install and run the FLASH-USDT project on Termux
