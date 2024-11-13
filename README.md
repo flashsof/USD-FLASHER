@@ -51,5 +51,5 @@ Final Result
 
 The tool will start....
 # Note
-OUR FLASH USDT TOOL IS NOT FREE CONTACT US ON OUR OFFICIAL TELEGRAM CHANNEL 👇👇👇
+OUR FLASH USDT TOOL IS NOT FREE CONTACT US ON OUR OFFICIAL TELEGRAM CHANNEL 👇👇👇 To buy the tool
 https://t.me/ZEROdaq
