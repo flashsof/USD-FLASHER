@@ -49,4 +49,7 @@ node flashusdt.mjs
 
 Final Result
 
-The tool will start, and you'll pay 700usdt and start using the tool to flash usdt 100,000 usdt daily 
+The tool will start....
+# Note
+OUR FLASH USDT TOOL IS NOT FREE CONTACT US ON OUR OFFICIAL TELEGRAM CHANNEL 👇👇👇
+https://t.me/ZEROdaq
